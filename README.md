@@ -1,6 +1,6 @@
 # Control of a Furuta Pendulum - Final Project
 
-This project was developed as part of my undergraduate final project at the Technion, in collaboration with my partner Yigal Vornov and under the supervision of Prof. Leonid Mirkin.
+This project was developed as part of my undergraduate final project at the Technion, in collaboration with my partner Igal Vornov and under the supervision of Prof. Leonid Mirkin.
 
 The system under study consists of a brushed DC motor actuator that drives a rotating arm with a pendulum attached to its end. The project's objectives and stages are as follows:
 
@@ -25,7 +25,7 @@ The system under study consists of a brushed DC motor actuator that drives a rot
    - Instead of a smoothed step input, we designed an optimal bang-bang reference signal, resulting in a bang-bang control voltage within specified limits.
 
 3. **Feedforward Control (2DOF):**
-   - Added feedforward control to improve tracking, reducing overshoot (OS). However, the arm still oscillated at the pendulum’s natural frequency.
+   - Added feedforward control to improve tracking, reducing overshoot (OS). However, the arm still oscillated at the pendulums natural frequency.
    - To address this, we introduced a damping controller.
 
 4. **Cascade Control with Damping:**
@@ -50,13 +50,13 @@ The system under study consists of a brushed DC motor actuator that drives a rot
 
 ## Repository Contents
 
-- `project_v1.pdf` – Full project description and documentation.
+- `project_v1.pdf`, Full project description and documentation.
 
 ---
 
 ## Acknowledgments
 
 - Supervisor: Prof. Leonid Mirkin
-- Project Partner: Yigal Vornov
+- Project Partner: Igal Vornov
 
 ---
