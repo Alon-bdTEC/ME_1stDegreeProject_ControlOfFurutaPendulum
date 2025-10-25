@@ -37,7 +37,7 @@ The system under study consists of a brushed DC motor actuator that drives a rot
 
 <p align="center">
   <img src="Pictures/BlockDiagram.JPG" width="500">
-  <br><sub>Block diagram of the overall control system</sub>
+  <br><sub>Block diagram of the overall plant</sub>
 </p>
 
 ---
@@ -56,7 +56,7 @@ The system under study consists of a brushed DC motor actuator that drives a rot
 - To address this, we introduced a damping controller.
 
 <p align="center">
-  <img src="Pictures/ControlScheme_Tracking1DOFAndDamping.png" width="500">
+  <img src="Pictures/CompleteControlSchemeLowerEq.JPG" width="500">
   <br><sub>Control scheme: Tracking controller combined with damping controller</sub>
 </p>
 
