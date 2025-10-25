@@ -14,6 +14,12 @@ The system under study consists of a brushed DC motor actuator that drives a rot
   <br><sub>Mechanical model of the arm-pendulum system</sub>
 </p>
 
+## Poster Shown in End of Year:
+<p align="center">
+  <img src="Pictures/Poster_AlonIgal-1.png" width="300">
+  <br><sub>Furuta Pendulum experimental system</sub>
+</p>
+
 ---
 
 ## Project Overview
