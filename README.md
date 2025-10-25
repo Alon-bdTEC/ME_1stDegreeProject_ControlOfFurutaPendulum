@@ -17,7 +17,7 @@ The system under study consists of a brushed DC motor actuator that drives a rot
 ## Poster Shown in End of Year:
 <p align="center">
   <img src="Pictures/Poster_AlonIgal-1.png" width="300">
-  <br><sub>Furuta Pendulum experimental system</sub>
+  <br><sub>Poster of the Degree Project on Control of 2DOF pendulum System</sub>
 </p>
 
 ---
@@ -74,9 +74,9 @@ The system under study consists of a brushed DC motor actuator that drives a rot
 
 ---
 
-## Future Plans
+## Also!
 
-- Apply the same methods developed for arm tracking around the lower equilibrium to:
+- We applied the same methods developed for arm tracking around the lower equilibrium to:
   - Stabilize the pendulum in the upright position.
   - Implement a swing-up controller to move the pendulum from the downward to the upward position.
 
